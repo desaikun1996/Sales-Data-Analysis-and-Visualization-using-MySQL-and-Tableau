@@ -16,9 +16,13 @@ select distinct product_type from sales.products;
 
 
 select * from sales.transactions;
+
 select count(*) from sales.transactions;	#150281
+
 select distinct currency from sales.transactions;
 #Currency :- INR, USD, INR(with enter character - Might need to clean)
+
+select max(sales_qty),min(sales_qty),max(sales_amount),min(sales_amount) from sales.transactions;
 
 
 

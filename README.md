@@ -3,6 +3,4 @@
 
 
 **Below is the final Dashboard**
-![Test Image](https://github.com/desaikun1996/Sales-Data-Analysis-and-Visualization-using-MySQL-and-Tableau/blob/main/FinalDashboard.png)
-
 <kbd> <img src="https://github.com/desaikun1996/Sales-Data-Analysis-and-Visualization-using-MySQL-and-Tableau/blob/main/FinalDashboard.png" /> </kbd>
